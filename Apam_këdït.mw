@@ -9,11 +9,10 @@
  buttonlabel=Create page
 </inputbox>
 <div align="center">
-<center>There are {{NUMBEROFARTICLES}} articles në [[Thuɔŋjäŋ]]</center>
+There are {{NUMBEROFARTICLES}} articles në [[Thuɔŋjäŋ]]
 
-<center>'''[[Special:AllPages|All pages]]'''</center>
+'''[[Special:AllPages|All pages]]'''
 
-<center>'''[[Category:!Main category|All categories]]'''</center>
 [[File:Dinka flag.png|alt=|300px|center|Muɔnyjiëëŋ]]
 
 [[Category:!Main category| ]]
