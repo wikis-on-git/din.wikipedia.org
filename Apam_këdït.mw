@@ -1,0 +1,18 @@
+[[File:Wikipedia-logo-v2-din.svg|300px|center|alt=Wikipedia, Athörëtɛ̈triɛ̈ɛ̈cëbɛ̈n lau]]
+<inputbox>
+ type=create
+ width=50
+ bgcolor=#ffffff
+ preload=Template:Standard content for new page
+ editintro=Template:Instructions
+ default=Wp/din/
+ buttonlabel=Create page
+</inputbox>
+<div align="center">
+<center>There are {{NUMBEROFARTICLES}} articles in this language</center>
+
+<center>'''[[Special:PrefixIndex/Wp/din|All pages]]'''</center>
+
+<center>'''[[Special:PrefixIndex/Category:Wp/din|All categories]]'''</center>
+
+[[Category:!Main category| ]]
