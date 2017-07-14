@@ -9,7 +9,7 @@
  buttonlabel=Create page
 </inputbox>
 <div align="center">
-<center>There are {{NUMBEROFARTICLES}} articles in Thuɔŋjäŋ</center>
+<center>There are {{NUMBEROFARTICLES}} articles in [[Thuɔŋjäŋ]]</center>
 
 <center>'''[[Special:AllPages|All pages]]'''</center>
 
