@@ -11,8 +11,8 @@
 <div align="center">
 <center>There are {{NUMBEROFARTICLES}} articles in this language</center>
 
-<center>'''[[Special:PrefixIndex/Wp/din|All pages]]'''</center>
+<center>'''[[Special:AllPages|All pages]]'''</center>
 
-<center>'''[[Special:PrefixIndex/Category:Wp/din|All categories]]'''</center>
+<center>'''[[Category:!Main category|All categories]]'''</center>
 
 [[Category:!Main category| ]]
