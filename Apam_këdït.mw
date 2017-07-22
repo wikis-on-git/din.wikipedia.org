@@ -3,13 +3,10 @@
  type=create
  width=50
  bgcolor=#ffffff
- preload=Template:Standard content for new page
- editintro=Template:Instructions
  default=
- buttonlabel=Create page
+ buttonlabel=Cak apam
 </inputbox>
 <div align="center">
-There are {{NUMBEROFARTICLES}} articles në [[Thuɔŋjäŋ]]
 
 '''[[Special:AllPages|All pages]]'''
 
