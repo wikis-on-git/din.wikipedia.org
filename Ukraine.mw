@@ -1,16 +1,11 @@
-{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
-|+<big><big>'''''Ukraine'''''</big></big>
-|-
-| style="background:#efefef;" align="center" colspan=2 |
-{| border="0" cellpadding="2" cellspacing="0"
-|-
-| align="center" width="140px" | [[File:Flag of Ukraine.svg|125px]]
-| align="center" width="140px" | [[File:Lesser Coat of Arms of Ukraine.svg|125px]]
-|}
-|-
-| align="center" colspan=2 | "Shche ne vmerla Ukrayiny ni slava, ni volya" [[File:Europe-Ukraine (orthographic projection; disputed territory).svg|300px]]
-|}
-'''Ukraine''' ee paan en [[Yurop]]
+{{Infobox country
+| name = Ukraine
+| local_name = Україна
+| flag_file = Flag of Ukraine.svg
+| coat_of_arms_file = Lesser Coat of Arms of Ukraine.svg
+| location_file = Europe-Ukraine (with Crimea).svg
+}}
+'''Ukraine''' (''ukr.Україна'') ee paan en [[Yurop]]
 Penëdhiäk ee Volodymyr Zelensky. Genamaatnhomde ayee cɔl Kiev.
 
 [[Bekätakthook:Yurop]]
